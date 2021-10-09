@@ -4,20 +4,20 @@ body{
     font-family: 'Merriweather', serif;
 }
 h1{
-    color: #fff;
+    color: rgb(233, 149, 149);
     margin: 30px auto 0 auto;
     font-family: 'Dancing Script', cursive;
     font-size: 5.625rem;
 }
 h2{
-    color: #11999E;
+    color: #0e4e50;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
     padding-bottom: 10px;
 }
 .name{
-    color: #11999E;
+    color: #9e116f;
     font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     font-weight: normal;
@@ -31,20 +31,20 @@ h3{
 }
 h4{
     font-family: 'Dancing Script', cursive;
-    color: #fff;
+    color: rgba(29, 12, 12, 0.616);
     font-size: 36px;
 }
 p{
     line-height: 2;
 }
 a{
-    color: #11999E;
+    color: #9e1180;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration:  none;
 }
 a:hover{
-    color: #EAF6F6;
+    color: #bd1799;
 }
 hr{
     border: dotted #EAF6F6 6px;
@@ -81,7 +81,7 @@ hr{
     margin: auto;
 } */
 .contact-message{
-    width: 40%;
+    width: 80%;
     margin: 40px auto 60px;
 }
 .copyright{
@@ -92,7 +92,7 @@ hr{
 
 .top-cloud{
     position: absolute;
-    right: 250px;
+    right: 300SSpx;
     top: 440px;
 }
 .bottom-cloud{
